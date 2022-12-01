@@ -3,6 +3,10 @@ Departamento de Ciencias de la Computación <br>
 Facultad de Ingeniería <br>
 Gráficas por Computadora <br>
 
+## Ejecutar
+
+- main.py
+
 ## Tareas logradas
 
 - FPS : renderizar y contador
